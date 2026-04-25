@@ -63,7 +63,7 @@ El flujo que sigue el programa es:
 ```bash
 cd julia
 make julia
-.\julia
+./julia
 gnuplot julia_set.gp
 ```
 
